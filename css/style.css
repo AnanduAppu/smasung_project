@@ -1,0 +1,246 @@
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+}
+.Samsung_img_top_nav{
+  margin-right: auto;
+  padding-left: 30px;
+
+ 
+}
+
+.big{
+    margin-bottom: 0%;
+    padding-top: 50px;
+    text-align: center;
+    font-family:  Arial, sans-serif;
+
+}
+
+.big_sale_menu{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top_nav ul{
+  margin-right: auto;
+  margin-left: 0px;
+  
+ 
+}
+.top_nav ul li{
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+
+}
+.top_nav ul li a{
+  text-decoration: none;
+  color: #000;
+  font-size: 14px;
+
+}
+.top_nav ul li a:hover{
+  background-color:black;
+  color: aliceblue;
+  border-radius: 30px;
+  padding: 10px;
+}
+.top_nav_right_icons{
+  text-align: right;
+}
+.top_nav_left a:hover{
+  text-decoration: none;
+  color: #000;
+  background-color:black;
+  color: aliceblue;
+  border-radius: 30px;
+  padding: 10px;
+}
+.center{
+ padding-top:10px;
+
+
+}
+.image_group tr td:nth-child(odd){
+  width: 25%;
+    
+}
+.image_group tr td img {
+  
+  width: 100%;
+  border-radius: 30px;
+}
+
+.tex ul li a{
+  text-decoration: none;
+  color: #000;
+  font-size: 16px;
+  
+}
+.tex ul{
+  margin-right: auto;
+  margin-left: 0px;
+  
+ 
+}
+.tex ul li a:hover{
+  background-color:black;
+  color: aliceblue;
+  border-radius: 30px;
+  padding: 10px;
+}
+.tex ul li{
+  list-style: none;
+  display: inline-block;
+  padding-right: 10px;
+
+}
+.mob_tv_hom{
+  background-color: rgb(251, 245, 245);
+  width: 98%; padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+ }
+ 
+ .fold_mob_img{
+padding-left: 450px;
+padding-top: 0px;
+width: 600px;
+
+ }
+ .tex2 ul li a{
+  text-decoration: none;
+  color: #000;
+  font-size: 14px;
+  
+}
+.tex2 ul{
+ 
+  margin-left: 200px;
+  
+ 
+}
+.tex2 ul li a:hover{
+  background-color:black;
+  color: aliceblue;
+  border-radius: 30px;
+  padding: 10px;
+}
+.tex2 ul li{
+  list-style: none;
+  display: inline-block;
+  padding-right: 10px;
+
+}
+.fold_menu{
+
+ padding-left: 220px;
+ padding-bottom: 10px;
+}
+
+.fold_bottom_menu{
+  padding-left: 670px;
+ padding-bottom: 10px;
+
+}
+.fold_menu2{
+
+  padding-left: 320px;
+  padding-bottom: 10px;
+ }
+ .fold_bottom_menu3{
+  padding-left: 640px;
+ padding-bottom: 10px;
+
+}
+.Explore tr td a:hover{
+text-decoration: underline; 
+margin-left: auto;
+margin-right: auto;
+
+}
+.Explore tr td{
+  list-style: none;
+  display: inline-block;
+  padding-right: 10px;
+}
+.Explore tr td a{
+  text-decoration: none;
+  color: #000;
+  }
+  
+.selfie tr td img{
+  border-radius: 30px;
+  height: 600px;
+  width: 600px;
+  padding-left: 100px;
+
+}
+.fold_menu3 ol li{
+  list-style: none;
+  display: inline-block;
+  padding-right: 10px;
+}
+.fold_menu3 a{
+text-decoration: none;
+color: #000;
+}
+.tex3 ul li a{
+  text-decoration: none;
+  color: #000;
+  font-size: 13px;
+  
+}
+.tex3 ul{
+  margin-right: auto;
+  margin-left: 0px;
+  
+ 
+}
+.tex3 ul li a:hover{
+  background-color:black;
+  color: aliceblue;
+  border-radius: 30px;
+  padding: 12px;
+}
+.tex3 ul li{
+  list-style: none;
+  display: inline-block;
+  padding-right: 20px;
+  
+
+}
+
+.fold_menu4 ul li{
+  list-style: none;
+  display: inline-block;
+  padding-right: 10px;
+}
+.fold_menu4 a{
+  text-decoration: none;
+  color: #000;
+  font-size: 10px;
+} 
+
+.fold_menu5 ul li{
+  list-style: none;
+  display: inline-block;
+  padding-right: 10px;
+  margin:0px;
+  margin-left: auto;
+  
+}
+.fold_menu5 a{
+ padding: 10px;
+ 
+ text-decoration: none;
+ color: #000;
+ font-size: 14px;
+} 
+
+a {
+  text-decoration: none;
+}
+
